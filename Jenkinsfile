@@ -36,6 +36,7 @@ pipeline {
 
             }
     }
+        }
           
      stage('On-Edge-rec-data') {
       agent any
